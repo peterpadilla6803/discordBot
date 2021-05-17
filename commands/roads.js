@@ -77,18 +77,3 @@ module.exports = {
 }
 }
 }
-
-/*    
-*/
-
-
-/*    let msgEmbed = new Discord.MessageEmbed()
-      .setColor("#a40000")
-      .setTimestamp()
-      .setThumbnail("https://udl.gg/i/udl.jpg")
-      .setFooter(
-        "Undead Lords (https://undeadlords.net)"
-      );
-    msgEmbed.setTitle(`Roads out of S.E.T.`)
-    msgEmbed.setDescription(`We have 1-3 portal leading out of our home zone of S.E.T.`)
-    msg.channel.send(msgEmbed).catch(e=>console.log(e))*/
